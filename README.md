@@ -39,7 +39,7 @@ The repository contains three main branches:
 ### main
 Contains the full project report, simulation functions, the harness file, and figures generated from the simulations. Key components include:
 
-- `/functions` – Python functions implementing the simulation logic, with full comments.
+- `/functions` – Functions implementing the simulation logic, with full comments.
 - `/harness` – Harness file to run the simulation over multiple seeds.
 - `/figures` – Plots and figures used to identify distributions, estimate parameters, and answer research questions.
 - Full report with methodology, results, and conclusions.
