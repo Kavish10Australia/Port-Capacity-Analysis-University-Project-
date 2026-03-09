@@ -1,0 +1,53 @@
+------------------------------------------------------------------------------------------------
+
+count of zeros in interarrival_times,lock_times,unload_times are 0, 35, 0 respectively
+After removing zeros from lock_times column, the number of observations left are 965
+
+------------------------------------------------------------------------------------------------
+
+Moments for interarrival times are m1, m2
+m1: 35.167, m2: 1429.957
+
+min and max values used for uniform distribution are calculated in report.
+mean used for normal distribution mean = 35.167, standard deviation = 13.901047118832455
+
+------------------------------------------------------------------------------------------------
+
+Moments for lock times are m1, m2
+m1: 10.928, m2: 236.321
+
+------------------------------------------------------------------------------------------------
+
+Moments for unload times are m1, m2
+m1: 16.021, m2: 267.572
+mean used for normal distribution mean = 16.021, standard deviation = 3.301448015644038
+
+------------------------------------------------------------------------------------------------
+
+Unit testing RandomNGs() function
+Unit testing RandomNGs() function passed
+
+Unit testing Ship() function
+Unit testing Ship() function passed
+
+Testing SystemState() function
+Testing SystemState() function passed
+
+Checking initialise() function
+Checking initialise() function passed
+
+Checking move_to_server() function
+Checking move_to_server() function passed
+
+Performing performance test on simulation run
+Performance test complete
+
+------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Time average occupancy of harbour queue is 0.09162503489477715 hours
+Value of lower and upper confidence interval for time average harbour queue size is 0.06866876779950637 and 0.12339482015346817
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Time average occupancy of sea queue is 0.045264002506020515 hours
+Value of lower and upper confidence interval for time average sea queue size is 0.026425461112961113 and 0.07833322351068453
+----------------------------------------------------------------------------------------
