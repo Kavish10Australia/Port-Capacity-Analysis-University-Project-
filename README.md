@@ -2,10 +2,8 @@
 
 This repository contains the code and report for a harbour operations simulation project using a Discrete Event Simulation (DES) model. The project was conducted as part of a university research assignment to analyze the current and future capacity of Port Blair harbour. The study was prepared by:
 
-**Kavish Sharma**     
+**Kavish Sharma**  (student id: a1896438)
 *University of Adelaide, Australia* 
-
-student id: a1896438
 
 ---
 
