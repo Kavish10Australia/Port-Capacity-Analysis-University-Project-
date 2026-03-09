@@ -55,8 +55,3 @@ Contains simulation results for 200 seeds under current traffic conditions. Each
 Same as `data` branch, but with a **10% increase in ship arrivals** to simulate future scenario traffic. Structure and files are identical, allowing comparison with current traffic results.
 """
 
-# Write to README.md
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully.")
