@@ -42,7 +42,7 @@ Contains the full project report, simulation functions, the harness file, and fi
 - `harbour_fns_1896438.jl` – Functions implementing the simulation logic, with full comments.
 - `harbour_harness_1896438.j` – Harness file to run the simulation over multiple seeds.
 - `figures` – Plots and figures used to identify distributions, estimate parameters, and answer research questions.
-- `    Harbour Project Report.pdf` - Full report with methodology, results, and conclusions.
+- `Harbour Project Report.pdf` - Full report with methodology, results, and conclusions.
 
 ### data branch
 Contains simulation results for 200 seeds under current traffic conditions. Each seed folder includes:
